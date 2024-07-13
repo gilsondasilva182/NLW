@@ -1,9 +1,9 @@
-# NLW eSports
-Projeto construido no evento NextLevel week da Rocketseat.
+
+Projeto construido em um evento.
 
 ![foto](./.github/foto.jpeg)
 
-[Clique aqui para acessar](https://github.com/gilsondasilva182/NLW-ESPORTS)
+[Clique aqui para acessar](https://github.com/gilsondasilva182
 
 ## Tecnologia
 - HTML
